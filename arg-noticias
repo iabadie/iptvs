@@ -1,0 +1,40 @@
+########## Noticias ##########
+
+#EXTINF:-1 tvg-id=»TVPublica» tvg-name=»TVPublica» tvg-logo=»tvpublicahd.png» group-title=»Variedades – Latinos»,TV Publica HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»TVPublica» tvg-name=»TVPublica» tvg-logo=»tvpublicahd.png» group-title=»Variedades – Latinos»,TV Publica Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»El_Trece-ar» tvg-name=»El Trece-ar» tvg-logo=»eltrecearg.png» group-title=»Variedades – Latinos»,El Trece HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»El_Trece-ar» tvg-name=»El Trece-ar» tvg-logo=»eltrecearg.png» group-title=»Variedades – Latinos»,El Trece Argentina
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»El_Trece» tvg-name=»El Trece» tvg-logo=»eltrecearg.png» group-title=»Variedades – Latinos»,El Trece Argentina
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-id=»TELEFE» tvg-name=»Telefe» tvg-logo=»telefe.png» group-title=»Variedades – Latinos»,TeLeFe HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»TELEFE» tvg-name=»Telefe» tvg-logo=»telefe.png» group-title=»Variedades – Latinos»,TeLeFe SD HQ Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»TELEFE» tvg-name=»Telefe» tvg-logo=»telefe.png» group-title=»Variedades – Latinos»,TeLeFe SD 4:3 Argentina
+rtmp://podi.hopper.pw:443/live/live_beto_3
+
+#EXTINF:-1 tvg-id=»America» tvg-name=»America» tvg-logo=»america2.png» group-title=»Variedades – Latinos»,America TV HD 720 Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»America» tvg-name=»America» tvg-logo=»america2.png» group-title=»Variedades – Latinos»,America TV Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»Canal9″ tvg-name=»Canal9″ tvg-logo=»canal9.png» group-title=»Variedades – Latinos»,Canal 9 Bs As Argentina (HTTP)
+http://72.46.226.61/live01/canal91/playlist.m3u8
+
+#EXTINF:-1 tvg-id=»Canal9″ tvg-name=»Canal9″ tvg-logo=»canal9.png» group-title=»Variedades – Latinos»,Canal 9 Bs As Argentina
+rtmp://85.17.20.69/live playpath=nuevegran?id=228815 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/nuevegran/1/600/400 Conn=S:OK –live
+
+#EXTINF:-1 tvg-id=»Orbe21″ tvg-logo=»orbe21.png» group-title=»Variedades – Latinos»,ORBE 21 Argentina
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
